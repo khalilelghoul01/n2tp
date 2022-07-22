@@ -7,7 +7,7 @@ personal dev stack: Nextjs - Tailwindcss - Typescript - prisma - pnpm - Trpc (op
 
 **all you need to do is to run:**
 
-- **clone the repo **
+- **clone the repo**
 ```cmd
 git clone https://github.com/khalilelghoul01/n2tp.git ./folder_name
 ```
