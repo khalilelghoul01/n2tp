@@ -12,15 +12,19 @@ personal dev stack: Nextjs - Tailwindcss - Typescript - prisma - pnpm - Trpc (op
 git clone https://github.com/khalilelghoul01/n2tp.git ./folder_name
 ```
 - install dependencies using npm or pnpm or yarn (personal favorite: pnpm ✨)
-```cmd
+```node
 pnpm i
-//or
+```
+or
+```node
 pnpm install
 ```
 - run the project locally:
-```cmd
+```node
 pnpm run dev
-//or 
+```
+//or
+```node
 pnpm run start
 ```
 and that's all, simple isn't it 🎉✨.
